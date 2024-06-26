@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm Yagyesh Sharma.
+
+I'm currently working on React Native as Mobile App Developer.
+
+I'm learning about DevOps right Now to enhance my career growth.
+
+I'm looking to collaborate on new projects which has new innovative ideas and some real world complexities.
+
+I'm looking to help with ReactJs, React Native, Node, Azure, Docker.
+
+You can reach me through : syagyesh91@gmail.com
