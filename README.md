@@ -1,29 +1,9 @@
-<!-- ## Hi there 👋
-
-<!--
-**syagyesh/syagyesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=DevOps%20Engineer&height=120&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect!💬
-</h1>
+<h1 align="center">Hi 👋, I'm Yagyesh Sharma</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud | Kubernetes | Automation</h3>
 
 <p align="center">
 <a href="https://syagyesh.me/">
@@ -36,52 +16,100 @@ Here are some ideas to get you started:
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+## 👨‍💻 About Me
 
 ```yaml
 name: Yagyesh Sharma
-located_in: Jhalawar, Rajasthan
-current_job: Mobile App Developer
-company: Secure Learning Pvt. Ltd.
+location: Rajasthan, India
+current_role: DevOps Engineer (Transitioning from Mobile Dev)
 
-fields_of_interests:
+focus:
   [
-    "Web Development",
-    "Game Development",
-    "Mobile App Development",
-    "DevOps",
+    "CI/CD Pipelines",
+    "Kubernetes & Containerization",
+    "Cloud Infrastructure (AWS)",
+    "Automation & Monitoring"
   ]
-technical_background:
+
+background:
   [
     "Mobile App Developer",
-    "Intern - Full Stack Developer",
+    "Full Stack Development",
+    "System Design Basics"
   ]
-  
-currently_learning: ["Docker, Kubernetes, Express, Django"]
-2024 Goals: ["Create atleast 10 big Projects"]
-hobbies: ["Gaming"]
+
+currently_learning:
+  [
+    "Advanced Kubernetes",
+    "Terraform",
+    "System Design",
+    "Monitoring (Prometheus + Grafana)"
+  ]
+
+goals_2026:
+  [
+    "Build Production-grade DevOps Projects",
+    "Master Kubernetes & Cloud",
+    "Contribute to Open Source"
+  ]
+
+hobbies: ["Gaming 🎮", "Building Side Projects"]
 ```
-  
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+---
+
+## ⚙️ DevOps & Cloud Stack
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
+
+---
+
+## 💻 Development Background (Bonus Strength 💪)
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
+
+---
+
+## 🚀 What I Do
+
+* 🔧 Build and manage **CI/CD pipelines**
+* 🐳 Containerize applications using **Docker**
+* ☸️ Deploy scalable apps on **Kubernetes**
+* ☁️ Work with **AWS Cloud Services**
+* 📊 Implement logging & monitoring systems
+* ⚡ Optimize system performance and reliability
+
+---
+
+## 📌 Featured DevOps Projects (Add yours here)
+
+* 🔹 Kubernetes Deployment with CI/CD Pipeline
+* 🔹 Dockerized Microservices Architecture
+* 🔹 Automated Backup & Restore System (K8s + DB)
+* 🔹 GitOps Workflow using GitHub Actions
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syagyesh&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
