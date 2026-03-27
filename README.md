@@ -27,7 +27,7 @@ focus:
   [
     "CI/CD Pipelines",
     "Kubernetes & Containerization",
-    "Cloud Infrastructure (AWS)",
+    "Cloud Infrastructure (AWS, Azure)",
     "Automation & Monitoring"
   ]
 
