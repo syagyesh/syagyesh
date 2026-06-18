@@ -112,7 +112,7 @@ hobbies: ["Gaming 🎮", "Building Side Projects"]
 
 ---
 
-## 📌 Featured DevOps Projects (Add yours here)
+## 📌 Featured DevOps Projects
 
 * 🔹 Kubernetes Deployment with CI/CD Pipeline
 * 🔹 Dockerized Microservices Architecture
